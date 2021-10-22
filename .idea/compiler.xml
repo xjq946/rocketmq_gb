@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="rocketmq_gb" />
+        <module name="dubbotest" />
+        <module name="springcloud-shardingjdbc-mybatis-demo1" />
+        <module name="dubbodemo" />
+        <module name="order-demo" />
+        <module name="springcloud-shardingjdbc-mybatis-demo2" />
+        <module name="springcloud-jdbc-demo2" />
+        <module name="springcloud-jdbc-demo3" />
+        <module name="springcloud-mybatis-demo1 (1)" />
+        <module name="springcloud-jdbc-demo1" />
+        <module name="springcloud-jpa-demo1" />
+        <module name="springcloud-jdbc-demo4" />
+        <module name="springcloud-jdbc-demo5" />
+        <module name="pay_demo_bk04" />
+        <module name="springcloud-jpa-demo2" />
+        <module name="springcloud-jpa-demo3" />
+        <module name="springcloud-mybatis-demo2 (1)" />
+        <module name="pay-demo (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="customer" target="1.8" />
+      <module name="dubbodemo" target="1.7" />
+      <module name="eureka-demo" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eurekserver" target="1.8" />
+      <module name="order-demo (1)" target="1.8" />
+      <module name="order-demo (2)" target="1.8" />
+      <module name="pay-demo" target="1.8" />
+      <module name="pay-demo (1)" target="1.8" />
+      <module name="pay-demo------2" target="1.8" />
+      <module name="pay_demo_bk" target="1.8" />
+      <module name="provider" target="1.8" />
+      <module name="redis-demo" target="1.8" />
+      <module name="springcloud-jdbc-demo1" target="1.7" />
+      <module name="springcloud-jdbc-demo2" target="1.7" />
+      <module name="springcloud-jdbc-demo3" target="1.7" />
+      <module name="springcloud-jdbc-demo4" target="1.7" />
+      <module name="springcloud-jdbc-demo5" target="1.7" />
+      <module name="springcloud-jpa-demo1" target="1.7" />
+      <module name="springcloud-jpa-demo2" target="1.7" />
+      <module name="springcloud-jpa-demo3" target="1.7" />
+      <module name="springcloud-lcn-demo" target="1.7" />
+      <module name="springcloud-mybatis-demo1 (1)" target="1.7" />
+      <module name="springcloud-mybatis-demo1 (2)" target="1.7" />
+      <module name="springcloud-mybatis-demo2 (1)" target="1.7" />
+      <module name="springcloud-mybatis-demo2 (2)" target="1.7" />
+      <module name="springcloud-shardingjdbc-mybatis-demo1" target="1.7" />
+      <module name="springcloud-shardingjdbc-mybatis-demo2" target="1.7" />
+      <module name="tx-manager" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
